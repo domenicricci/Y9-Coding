@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domenic Ricci Coding Unit 2</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <section class="mainheader">
+        <nav>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="home.html">HOME</a></li>
+                    <li><a href="about81.html">ABOUT 8.1</a></li>
+                    <li><a href="about111.html">ABOUT 11.1</a></li>
+                    <li><a href="comparison.html">COMPARISON</a></li>
+                    
+                </ul>
+            </div>
+         </nav>
+   
+   
+
+
+
+<div class="text-box">
+    <h1>Welcome to the number one resource to advance your knowledge on UN goals 8.1, 11.1 and their connections</h1>
+    <p>This website will teach the reader all of the starter information they need to know to advance their knowledge and even contribute to the issue of job loss leading to families unable to afford housing caused by COVID-19.</p>
+    <p2>See below a brief description on each goal.</p2>
+   
+   
+</div>
+    </section>
+
+
+
+
+<table class="table1" border="1">
+    <tr>
+        <td><img src="images/8-1.png" alt=""></td>
+        <td><img src="images/11-1.png" alt=""></td>
+    </tr>
+    <tr>
+        <td><p class="p1">The image above is the logo for UN Target 8.1, "sustain per capita economic growth in accordance with national circumstances, and in particular at least 7% per annum GDP growth in the least-developed countries"</p></td>
+        <td><p class="p2">The image above is the logo for UN Target 11.1,"by 2030, ensure access for all to adequate, safe and affordable housing and basic services, and upgrade slums"</p></td>
+    </tr>
+</table>
+
+
+ 
+</body>
+</html>
